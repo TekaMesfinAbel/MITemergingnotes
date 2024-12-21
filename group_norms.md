@@ -42,6 +42,4 @@ We will strive to support and uplift each other. Encouragement, acknowledgment, 
 
 ---
 
-![Teamwork](https://cdn.pixabay.com/photo/2017/01/18/21/13/teamwork-1995056_960_720.png)
-
 *Let’s make collaboration a rewarding and meaningful experience!* 🌟
