@@ -1,45 +1,60 @@
-# 🌟 Group Norms and Intentions
+# 🌟 Our Group Norms  
 
-## 🤝 **Our Commitment**
+### 🕒 Availability  
+We will ensure availability by committing to being accessible from afternoon to early evening in our local time zones, which aligns with **7 am to 1 pm EST**.  
 
-Our group is committed to building trust, fostering inclusivity, and maintaining open communication to ensure collaboration is effective, respectful, and supportive. We aim to balance flexibility and accountability while embracing diverse perspectives and adapting to evolving needs.
+### 🤝 Trust and Respect  
+- We will build and maintain trust by valuing each other’s contributions and resolving conflicts collaboratively.  
+- Trust will be cultivated through **reliability**, **empathy**, and **respect** for diverse perspectives.  
+- Group members who fall behind will be supported with **patience** and **encouragement**.  
 
----
+### 🌈 Inclusivity  
+We will foster inclusivity by:  
+- Creating an environment where **all voices** are heard and valued.  
+- Respecting **diverse perspectives** and communication styles to ensure everyone feels included.  
 
-## ✨ **Group Norms**
+### 🔄 Flexibility and Adaptability  
+- We will remain mindful of **individual circumstances** and adjust as necessary.  
+- Group norms will evolve with project demands and feedback to ensure they meet the team’s needs.  
 
-### 🛡️ **Building and Maintaining Trust**
+### 📢 Clear Communication  
+- Use effective tools for communication:  
+  - **Slack** for quick updates.  
+  - **Email** for formal documentation.  
+  - **Virtual meetings** for discussions and decision-making.  
+- Set clear agendas for meetings to ensure focus.  
+- Encourage **open discussions** during ideation and debates.  
 
-We will build and maintain trust by valuing both competence and relationships. Trust will be cultivated through reliability, open communication, and mutual respect for each other's contributions and perspectives.
+### ⏰ Time Management  
+- Respect meeting schedules and deadlines:  
+  - Meetings will include a **10-minute waiting period** for late arrivals.  
+  - Pre-set agendas will maximize productivity.  
+- Members will come prepared with completed tasks before meetings to ensure efficient collaboration.  
 
-### 💬 **Approaching Conflicts**
+### 🗳️ Decision-Making  
+- Strive for **consensus** whenever possible.  
+- If disagreements arise, use **majority votes** to make decisions.  
+- Document all major decisions for transparency and share them in a centralized repository.  
 
-We will approach conflicts with a commitment to understanding and resolution. Disagreements or trust issues will be addressed with openness, empathy, and a shared focus on moving forward productively.
+### 🛠️ Task Division and Collaboration  
+- Divide tasks fairly using a "divide and conquer" approach to ensure equal contribution.  
+- Respect contributions regardless of task complexity.  
+- Track progress to maintain accountability.  
 
-### 🔍 **Balancing Discussion and Debate**
+### 🌟 Leadership and Roles  
+- Leadership may be assigned to oversee progress and meetings, or responsibilities may be shared equally among members.  
+- This will depend on the group’s **preference** and **needs**.  
 
-We will balance open discussion and focused debate to maximize collaboration and decision-making. Our discussions will encourage diverse perspectives, while our debates will seek clarity and consensus in pursuit of the best outcomes.
+### ❤️ Conflict Resolution  
+- Address conflicts with **openness** and **empathy**.  
+- Acknowledge mistakes and focus on **collaborative resolutions**.  
+- Restore trust through accountability and open dialogue.  
 
-### ⏳ **Respecting Time**
+### 🌱 Norm Evolution  
+- Recognize that group norms may need to change as the team grows and adapts to challenges.  
+- Regular reviews will be conducted to ensure norms remain relevant and effective.  
 
-We will respect each other’s time in all communications and meetings. Whether synchronous or asynchronous, we will aim for clarity, purpose, and efficiency in how we engage.
-
-### 🌍 **Fostering Inclusivity**
-
-We will foster an inclusive and respectful environment for all members. Everyone’s voice will be valued, and we will remain open to diverse ideas, communication styles, and cultural perspectives.
-
-### 🔒 **Ensuring Transparency and Accountability**
-
-We will maintain transparency and accountability in all aspects of the project. Updates, decisions, and responsibilities will be shared openly to ensure clarity and alignment within the team.
-
-### 🌱 **Embracing Flexibility**
-
-We will commit to flexibility and adaptability in our group dynamics. Recognizing that circumstances and needs evolve, we will regularly revisit and refine our norms to remain effective and supportive.
-
-### 🤗 **Supporting Each Other**
-
-We will strive to support and uplift each other. Encouragement, acknowledgment, and collective problem-solving will guide our efforts to help each team member succeed.
-
----
-
-*Let’s make collaboration a rewarding and meaningful experience!* 🌟
+### 📚 Documentation and Coding Standards  
+- Ensure thorough documentation of all contributions, decisions, and progress.  
+- Use consistent templates for notes and comments.  
+- Adopt **camelCase** for variable and function names to ensure coding consistency.  
